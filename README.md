@@ -1,4 +1,9 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+
+##NAME:R SAKETRAM
+
+##REGISTER NUMBER:212223230181
+
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
